@@ -1,3 +1,5 @@
+-- https://www.db-fiddle.com/f/f8YKpCjArTWGEBqW2x2RXC/4
+
 -- Schema SQL
 
 -- .............................................................
@@ -5,6 +7,14 @@
 -- .............................................................
 -- .............................................................
 -- .............................................................
+
+/*
+This service is a Spotify-like music streaming platform where
+users can discover, play, and organize tracks and albums, follow
+artists, and build public or private playlists. It’s monetized
+through tiered subscription plans with payments, while user listening
+/search activity feeds analytics and personalized recommendations. 
+*/
 
 -- Диаграмма png https://drive.google.com/file/d/1a3jUr3S7b4Rm-hS0a9YfLoK5UKSSUsBp/view?usp=sharing
 -- Диаграмма pdf https://drive.google.com/file/d/1wlCSZTRstwvbM76RcMgmTW8ZUFKYxzO3/view?usp=sharing
