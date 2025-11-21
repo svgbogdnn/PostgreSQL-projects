@@ -1,3 +1,5 @@
+-- https://www.db-fiddle.com/f/xfic6QQxRH5vHdkvVefLbZ/4
+
 -- Schema SQL
 
 -- .............................................................
