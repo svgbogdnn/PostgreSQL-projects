@@ -1,7 +1,8 @@
-## Структура репозитория
+## Структура репо (краткая)
 
 ```text
-RepoRoot (Project)
+RepoRoot
+
 ├─► CI & Meta
 │   ├─► .github
 │   │   └─► workflows
